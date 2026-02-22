@@ -7,12 +7,12 @@ A professional **Crypto Dashboard** that visualizes cryptocurrency data using **
 ## 📦 Project Structure
 
 
-Crypto-Dashboard/
-├── main.py # ETL script: fetch, transform & load crypto data into PostgreSQL
-├── dashboard.py # Streamlit dashboard: interactive visualizations
-├── requirements.txt # Python dependencies
-├── .gitignore # Ignore sensitive files, databases, and cache
-└── README.md # Project documentation
+- Crypto-Dashboard/
+- ├── main.py # ETL script: fetch, transform & load crypto data into PostgreSQL
+- ├── dashboard.py # Streamlit dashboard: interactive visualizations
+- ├── requirements.txt # Python dependencies
+- ├── .gitignore # Ignore sensitive files, databases, and cache
+- └── README.md # Project documentation
 
 
 ---
